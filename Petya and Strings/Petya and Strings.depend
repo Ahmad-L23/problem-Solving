@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736555344 source:c:\c++-problems\petya and strings\main.cpp
+	<iostream>
+	<algorithm>
+	<cctype>
+	<string>
+

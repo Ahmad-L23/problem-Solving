@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736716061 source:c:\c++-problems\helpful maths\main.cpp
+	<iostream>
+	<cmath>
+

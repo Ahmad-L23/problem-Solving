@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738605449 source:c:\c++-problems\beautiful year\main.cpp
+	<iostream>
+	<set>
+

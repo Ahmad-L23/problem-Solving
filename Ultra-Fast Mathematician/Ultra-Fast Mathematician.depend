@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738801742 source:c:\c++-problems\ultra-fast mathematician\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

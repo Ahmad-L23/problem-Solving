@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738882701 source:c:\c++-problems\pangram\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

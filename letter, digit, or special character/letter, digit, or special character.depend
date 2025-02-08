@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1734741848 source:c:\c++-problems\letter, digit, or special character\main.cpp
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738795042 source:c:\c++-problems\drinks\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+

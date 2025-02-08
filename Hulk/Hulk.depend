@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738811287 source:c:\c++-problems\hulk\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
