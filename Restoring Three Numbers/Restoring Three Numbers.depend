@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739567777 source:c:\c++-problems\restoring three numbers\main.cpp
+	<iostream>
+	<vector>
+

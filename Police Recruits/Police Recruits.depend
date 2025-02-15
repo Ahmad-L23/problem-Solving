@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739274234 source:c:\c++-problems\police recruits\main.cpp
+	<iostream>
+	<vector>
+

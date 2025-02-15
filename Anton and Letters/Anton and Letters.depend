@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739000782 source:c:\c++-problems\anton and letters\main.cpp
+	<iostream>
+	<set>
+
