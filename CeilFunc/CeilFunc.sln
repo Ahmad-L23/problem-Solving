@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CeilFunc", "CeilFunc\CeilFunc.vcxproj", "{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Debug|x64.ActiveCfg = Debug|x64
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Debug|x64.Build.0 = Debug|x64
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Debug|x86.ActiveCfg = Debug|Win32
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Debug|x86.Build.0 = Debug|Win32
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Release|x64.ActiveCfg = Release|x64
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Release|x64.Build.0 = Release|x64
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Release|x86.ActiveCfg = Release|Win32
+		{DABE0EA2-6BC2-4D72-90CD-488ACAF78586}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B57134-A4EB-4851-BA3F-2EC21475F889}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  CopyArrayPrimeNumbers.cpp
+C:\c++-Problems\CopyArrayPrimeNumbers\CopyArrayPrimeNumbers\CopyArrayPrimeNumbers.cpp(27,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyArrayPrimeNumbers.vcxproj -> C:\c++-Problems\CopyArrayPrimeNumbers\x64\Debug\CopyArrayPrimeNumbers.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\CopyPrimeNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB883BBE-2802-418E-B0D2-570F100DB911}|CopyPrimeNumbers\\CopyPrimeNumbers.vcxproj|C:\\c\u002B\u002B-Problems\\CopyPrimeNumbers\\CopyPrimeNumbers\\CopyPrimeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB883BBE-2802-418E-B0D2-570F100DB911}|CopyPrimeNumbers\\CopyPrimeNumbers.vcxproj|solutionrelative:CopyPrimeNumbers\\CopyPrimeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CopyPrimeNumbers.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\CopyPrimeNumbers\\CopyPrimeNumbers\\CopyPrimeNumbers.cpp",
+              "RelativeDocumentMoniker": "CopyPrimeNumbers\\CopyPrimeNumbers.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\CopyPrimeNumbers\\CopyPrimeNumbers\\CopyPrimeNumbers.cpp",
+              "RelativeToolTip": "CopyPrimeNumbers\\CopyPrimeNumbers.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T18:38:49.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

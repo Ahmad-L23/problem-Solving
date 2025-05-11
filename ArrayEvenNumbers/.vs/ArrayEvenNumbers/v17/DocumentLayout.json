@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\ArrayEvenNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D559556F-066C-4763-93EC-77683BDEC557}|ArrayEvenNumbers\\ArrayEvenNumbers.vcxproj|C:\\c\u002B\u002B-Problems\\ArrayEvenNumbers\\ArrayEvenNumbers\\ArrayEvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D559556F-066C-4763-93EC-77683BDEC557}|ArrayEvenNumbers\\ArrayEvenNumbers.vcxproj|solutionrelative:ArrayEvenNumbers\\ArrayEvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayEvenNumbers.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\ArrayEvenNumbers\\ArrayEvenNumbers\\ArrayEvenNumbers.cpp",
+              "RelativeDocumentMoniker": "ArrayEvenNumbers\\ArrayEvenNumbers.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\ArrayEvenNumbers\\ArrayEvenNumbers\\ArrayEvenNumbers.cpp",
+              "RelativeToolTip": "ArrayEvenNumbers\\ArrayEvenNumbers.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T21:13:42.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

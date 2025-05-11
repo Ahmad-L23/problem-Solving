@@ -1,0 +1,3 @@
+﻿  SquarRootFunc.cpp
+C:\c++-Problems\SquarRootFunc\SquarRootFunc\SquarRootFunc.cpp(26,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  SquarRootFunc.vcxproj -> C:\c++-Problems\SquarRootFunc\x64\Debug\SquarRootFunc.exe

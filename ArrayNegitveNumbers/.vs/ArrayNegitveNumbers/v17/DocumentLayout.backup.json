@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\ArrayNegitveNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4557FE6A-E30E-4D95-89FB-FCF46B0A2A63}|ArrayNegitveNumbers\\ArrayNegitveNumbers.vcxproj|C:\\c\u002B\u002B-Problems\\ArrayNegitveNumbers\\ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4557FE6A-E30E-4D95-89FB-FCF46B0A2A63}|ArrayNegitveNumbers\\ArrayNegitveNumbers.vcxproj|solutionrelative:ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayNegitveNumbers.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\ArrayNegitveNumbers\\ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp",
+              "RelativeDocumentMoniker": "ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\ArrayNegitveNumbers\\ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp*",
+              "RelativeToolTip": "ArrayNegitveNumbers\\ArrayNegitveNumbers.cpp*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T21:18:52.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

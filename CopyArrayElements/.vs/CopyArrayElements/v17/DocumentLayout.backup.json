@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\CopyArrayElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF7558-B2EB-4848-8461-33929EAE0CF5}|CopyArrayElements\\CopyArrayElements.vcxproj|C:\\c\u002B\u002B-Problems\\CopyArrayElements\\CopyArrayElements\\CopyArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DF7558-B2EB-4848-8461-33929EAE0CF5}|CopyArrayElements\\CopyArrayElements.vcxproj|solutionrelative:CopyArrayElements\\CopyArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CopyArrayElements.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\CopyArrayElements\\CopyArrayElements\\CopyArrayElements.cpp",
+              "RelativeDocumentMoniker": "CopyArrayElements\\CopyArrayElements.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\CopyArrayElements\\CopyArrayElements\\CopyArrayElements.cpp*",
+              "RelativeToolTip": "CopyArrayElements\\CopyArrayElements.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T12:09:51.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

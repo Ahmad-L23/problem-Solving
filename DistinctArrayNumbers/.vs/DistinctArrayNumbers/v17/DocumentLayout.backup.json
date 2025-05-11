@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\DistinctArrayNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAF39B-02D2-49CF-B907-24C38ECC4F8F}|DistinctArrayNumbers\\DistinctArrayNumbers.vcxproj|C:\\c\u002B\u002B-Problems\\DistinctArrayNumbers\\DistinctArrayNumbers\\DistinctArrayNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30EAF39B-02D2-49CF-B907-24C38ECC4F8F}|DistinctArrayNumbers\\DistinctArrayNumbers.vcxproj|solutionrelative:DistinctArrayNumbers\\DistinctArrayNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistinctArrayNumbers.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\DistinctArrayNumbers\\DistinctArrayNumbers\\DistinctArrayNumbers.cpp",
+              "RelativeDocumentMoniker": "DistinctArrayNumbers\\DistinctArrayNumbers.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\DistinctArrayNumbers\\DistinctArrayNumbers\\DistinctArrayNumbers.cpp*",
+              "RelativeToolTip": "DistinctArrayNumbers\\DistinctArrayNumbers.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T19:01:24.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

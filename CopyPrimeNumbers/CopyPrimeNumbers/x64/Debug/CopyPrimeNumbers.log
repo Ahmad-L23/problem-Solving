@@ -1,0 +1,3 @@
+﻿  CopyPrimeNumbers.cpp
+C:\c++-Problems\CopyPrimeNumbers\CopyPrimeNumbers\CopyPrimeNumbers.cpp(46,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyPrimeNumbers.vcxproj -> C:\c++-Problems\CopyPrimeNumbers\x64\Debug\CopyPrimeNumbers.exe

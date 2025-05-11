@@ -1,0 +1,3 @@
+﻿  CeilFunc.cpp
+C:\c++-Problems\CeilFunc\CeilFunc\CeilFunc.cpp(35,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  CeilFunc.vcxproj -> C:\c++-Problems\CeilFunc\x64\Debug\CeilFunc.exe

@@ -1,0 +1,4 @@
+﻿  AbsouluteFunc.cpp
+C:\c++-Problems\AbsouluteFunc\AbsouluteFunc\AbsouluteFunc.cpp(14,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\c++-Problems\AbsouluteFunc\AbsouluteFunc\AbsouluteFunc.cpp(28,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  AbsouluteFunc.vcxproj -> C:\c++-Problems\AbsouluteFunc\x64\Debug\AbsouluteFunc.exe

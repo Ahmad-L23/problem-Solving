@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\AverageOfArrayElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF67010-A63D-45E1-AC11-A9188FF43CB8}|AverageOfArrayElements\\AverageOfArrayElements.vcxproj|C:\\c\u002B\u002B-Problems\\AverageOfArrayElements\\AverageOfArrayElements\\AverageOfArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEF67010-A63D-45E1-AC11-A9188FF43CB8}|AverageOfArrayElements\\AverageOfArrayElements.vcxproj|solutionrelative:AverageOfArrayElements\\AverageOfArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AverageOfArrayElements.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\AverageOfArrayElements\\AverageOfArrayElements\\AverageOfArrayElements.cpp",
+              "RelativeDocumentMoniker": "AverageOfArrayElements\\AverageOfArrayElements.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\AverageOfArrayElements\\AverageOfArrayElements\\AverageOfArrayElements.cpp*",
+              "RelativeToolTip": "AverageOfArrayElements\\AverageOfArrayElements.cpp*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T12:02:34.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
