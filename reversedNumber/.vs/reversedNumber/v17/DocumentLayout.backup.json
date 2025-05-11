@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\reversedNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240B87AE-B336-49C8-B74A-57FC43152B4D}|reversedNumber\\reversedNumber.vcxproj|C:\\c\u002B\u002B-Problems\\reversedNumber\\reversedNumber\\reversedNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{240B87AE-B336-49C8-B74A-57FC43152B4D}|reversedNumber\\reversedNumber.vcxproj|solutionrelative:reversedNumber\\reversedNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reversedNumber.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\reversedNumber\\reversedNumber\\reversedNumber.cpp",
+              "RelativeDocumentMoniker": "reversedNumber\\reversedNumber.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\reversedNumber\\reversedNumber\\reversedNumber.cpp*",
+              "RelativeToolTip": "reversedNumber\\reversedNumber.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T16:54:13.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

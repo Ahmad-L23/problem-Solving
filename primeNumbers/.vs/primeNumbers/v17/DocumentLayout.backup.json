@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\primeNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28702D7-5803-4A95-B4C3-D597E9C6AA2D}|primeNumbers\\primeNumbers.vcxproj|C:\\c\u002B\u002B-Problems\\primeNumbers\\primeNumbers\\primeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A28702D7-5803-4A95-B4C3-D597E9C6AA2D}|primeNumbers\\primeNumbers.vcxproj|solutionrelative:primeNumbers\\primeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "primeNumbers.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\primeNumbers\\primeNumbers\\primeNumbers.cpp",
+              "RelativeDocumentMoniker": "primeNumbers\\primeNumbers.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\primeNumbers\\primeNumbers\\primeNumbers.cpp*",
+              "RelativeToolTip": "primeNumbers\\primeNumbers.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T14:49:46.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
