@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\NumberExistInMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59821884-FC6B-422B-AF33-B9D289E2E466}|NumberExistInMatrix\\NumberExistInMatrix.vcxproj|C:\\c\u002B\u002B-Problems\\NumberExistInMatrix\\NumberExistInMatrix\\NumberExistInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59821884-FC6B-422B-AF33-B9D289E2E466}|NumberExistInMatrix\\NumberExistInMatrix.vcxproj|solutionrelative:NumberExistInMatrix\\NumberExistInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberExistInMatrix.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\NumberExistInMatrix\\NumberExistInMatrix\\NumberExistInMatrix.cpp",
+              "RelativeDocumentMoniker": "NumberExistInMatrix\\NumberExistInMatrix.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\NumberExistInMatrix\\NumberExistInMatrix\\NumberExistInMatrix.cpp",
+              "RelativeToolTip": "NumberExistInMatrix\\NumberExistInMatrix.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T03:15:35.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

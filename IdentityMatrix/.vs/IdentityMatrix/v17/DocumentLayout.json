@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\IdentityMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87DCD7E-EBAA-46F6-8C27-1F0CA80FD6F1}|IdentityMatrix\\IdentityMatrix.vcxproj|C:\\c\u002B\u002B-Problems\\IdentityMatrix\\IdentityMatrix\\IdentityMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E87DCD7E-EBAA-46F6-8C27-1F0CA80FD6F1}|IdentityMatrix\\IdentityMatrix.vcxproj|solutionrelative:IdentityMatrix\\IdentityMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityMatrix.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\IdentityMatrix\\IdentityMatrix\\IdentityMatrix.cpp",
+              "RelativeDocumentMoniker": "IdentityMatrix\\IdentityMatrix.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\IdentityMatrix\\IdentityMatrix\\IdentityMatrix.cpp",
+              "RelativeToolTip": "IdentityMatrix\\IdentityMatrix.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T02:27:16.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

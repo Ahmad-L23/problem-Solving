@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\SparceMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3474CC74-FE22-4448-8CB5-47C56D39D10A}|SparceMatrix\\SparceMatrix.vcxproj|C:\\c\u002B\u002B-Problems\\SparceMatrix\\SparceMatrix\\SparceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3474CC74-FE22-4448-8CB5-47C56D39D10A}|SparceMatrix\\SparceMatrix.vcxproj|solutionrelative:SparceMatrix\\SparceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SparceMatrix.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\SparceMatrix\\SparceMatrix\\SparceMatrix.cpp",
+              "RelativeDocumentMoniker": "SparceMatrix\\SparceMatrix.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\SparceMatrix\\SparceMatrix\\SparceMatrix.cpp",
+              "RelativeToolTip": "SparceMatrix\\SparceMatrix.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T03:02:39.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
