@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\CountLetterInString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEBF06B-74DC-4568-A0DD-684E6A76BA05}|CountLetterInString\\CountLetterInString.vcxproj|C:\\c\u002B\u002B-Problems\\CountLetterInString\\CountLetterInString\\CountLetterInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EEBF06B-74DC-4568-A0DD-684E6A76BA05}|CountLetterInString\\CountLetterInString.vcxproj|solutionrelative:CountLetterInString\\CountLetterInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountLetterInString.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\CountLetterInString\\CountLetterInString\\CountLetterInString.cpp",
+              "RelativeDocumentMoniker": "CountLetterInString\\CountLetterInString.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\CountLetterInString\\CountLetterInString\\CountLetterInString.cpp*",
+              "RelativeToolTip": "CountLetterInString\\CountLetterInString.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:47:17.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

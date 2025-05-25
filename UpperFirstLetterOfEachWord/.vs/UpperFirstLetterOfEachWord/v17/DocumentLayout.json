@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\UpperFirstLetterOfEachWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E8DA0-80B4-457C-A4DA-DFC1F258305C}|UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.vcxproj|C:\\c\u002B\u002B-Problems\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F1E8DA0-80B4-457C-A4DA-DFC1F258305C}|UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.vcxproj|solutionrelative:UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpperFirstLetterOfEachWord.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp",
+              "RelativeDocumentMoniker": "UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp",
+              "RelativeToolTip": "UpperFirstLetterOfEachWord\\UpperFirstLetterOfEachWord.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T23:45:07.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

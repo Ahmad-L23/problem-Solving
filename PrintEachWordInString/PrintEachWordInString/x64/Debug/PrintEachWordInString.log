@@ -1,0 +1,3 @@
+﻿  PrintEachWordInString.cpp
+C:\c++-Problems\PrintEachWordInString\PrintEachWordInString\PrintEachWordInString.cpp(24,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  PrintEachWordInString.vcxproj -> C:\c++-Problems\PrintEachWordInString\x64\Debug\PrintEachWordInString.exe
