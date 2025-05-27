@@ -4,12 +4,12 @@
 
 using namespace std;
 
-// Function to read numbers into a dynamically allocated array
+
 int* readNumbers(int& Size) {
     cout << "Enter the array size: ";
     cin >> Size;
 
-    // Validate size
+   
     if (Size <= 0) {
         cout << "Invalid size! Setting size to 1." << endl;
         Size = 1;
@@ -23,17 +23,17 @@ int* readNumbers(int& Size) {
     return numbers;
 }
 
-// Function to find duplicates in an array
+
 vector<int> findDuplicates(int* numbers, int Size) {
-    unordered_set<int> seen;       // Set to track seen numbers
-    unordered_set<int> duplicates; // Set to store duplicates
+    unordered_set<int> seen;       
+    unordered_set<int> duplicates; 
 
     for (int i = 0; i < Size; i++) {
         if (seen.find(numbers[i]) != seen.end()) {
-            // If the number has been seen before, it's a duplicate
+            
             duplicates.insert(numbers[i]);
         } else {
-            // Otherwise, add it to the seen set
+            
             seen.insert(numbers[i]);
         }
     }
@@ -45,7 +45,7 @@ void print() {
     int Size = 0;
     int* numbers = readNumbers(Size);
 
-    // Find duplicates
+    
     vector<int> duplicates = findDuplicates(numbers, Size);
 
     cout << "Original numbers: ";
