@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002B\u002B-Problems\\Days From the begging of the year\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC266A35-358F-442D-9D5C-7D5AE63A9D55}|Days From the begging of the year\\Days From the begging of the year.vcxproj|C:\\c\u002B\u002B-Problems\\Days From the begging of the year\\Days From the begging of the year\\Days From the begging of the year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC266A35-358F-442D-9D5C-7D5AE63A9D55}|Days From the begging of the year\\Days From the begging of the year.vcxproj|solutionrelative:Days From the begging of the year\\Days From the begging of the year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Days From the begging of the year.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002B-Problems\\Days From the begging of the year\\Days From the begging of the year\\Days From the begging of the year.cpp",
+              "RelativeDocumentMoniker": "Days From the begging of the year\\Days From the begging of the year.cpp",
+              "ToolTip": "C:\\c\u002B\u002B-Problems\\Days From the begging of the year\\Days From the begging of the year\\Days From the begging of the year.cpp",
+              "RelativeToolTip": "Days From the begging of the year\\Days From the begging of the year.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T11:40:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
