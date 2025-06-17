@@ -37,10 +37,6 @@ short NumberOfDaysInMonth(short Year, short Month)
         (Month == 4 || Month == 6 || Month == 9 || Month == 11) ? 30 : 31;
 }
 
-#include <iostream>
-#include <iomanip>
-using namespace std;
-
 void ShowCalendarScreen(short Year, short Month)
 {
     string MonthName = MonthShortName(Month);
