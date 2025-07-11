@@ -1,32 +1,3 @@
-/*
- brute force solution:
------------------------------------------------------
-bool checkIfOccurs(vector<char> Unique, char alpha)
-{
-    for(int i=0; i<Unique.size(); i++)
-    {
-        if(alpha == Unique[i])
-            return false;
-    }
-    return true;
-}
-enPanagram isPanagram(int numberOfChars, string str)
-{
-    if(numberOfChars<26)
-        return enPanagram::NO;
-    toLowerCase(str,numberOfChars);
-    vector<char> Unique;
-    for(int i=0; i<numberOfChars; i++)
-    {
-        if(i>0 && checkIfOccurs(Unique, str[i]))
-            Unique.push_back(str[i]);
-    }
-    return Unique.size()>=26? enPanagram::YES : enPanagram::NO;
-}
-
------------------------------------------------------------------
-*/
-
 #include <iostream>
 #include<vector>
 #include<set>
